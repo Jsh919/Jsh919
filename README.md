@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Jsh919
 - 👀 I’m interested in Machine Learning/Deep Learning/Fault Diagnosis
 - 🌱 I’m currently learning LightGBM/Transformer
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me jishh@student.cup.edu.cn
 
 <!---
