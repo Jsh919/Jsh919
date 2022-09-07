@@ -1,5 +1,5 @@
 - Hi, I’m @Jsh919
-- I’m interested in Machine Learning/Deep Learning/Fault Diagnosis
+- I’m interested in Machine Learning/Deep Learning/Fault Diagnosis/PHM
 - I’m currently learning LightGBM/Transformer
 - How to reach me jishh@student.cup.edu.cn
 - My Website: alwayscu.com
